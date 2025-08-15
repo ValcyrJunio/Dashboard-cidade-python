@@ -27,7 +27,7 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
 
 1.  **Clone o repositório**:
     ```bash
-    git clone [https://github.com/Valcyrjunio/Dashboard-cidade-python.git](https://github.com/seu-usuario/Dashboard-cidade-python.git)
+    git clone [https://github.com/Valcyrjunio/Dashboard-cidade-python.git](https://github.com/Valcyrjunio/Dashboard-cidade-python.git)
     ```
 2.  **Acesse o diretório do projeto**:
     ```bash
@@ -39,6 +39,4 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
     ```
 4.  **Execute o script principal**:
     ```bash
-    python seu_script.py
-    ```
-    *Lembre-se de substituir `seu_script.py` pelo nome do seu arquivo Python.*
+    python dashboard.py
